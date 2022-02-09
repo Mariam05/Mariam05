@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hello there :wave:
+
+:black_heart: <br>
+If you didn't see the heart on the previous line, consider taking a Vitamin D supplement 🙂
 
 <!--
+
+![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariam05&show_icons=true&theme=buefy&count_private=true&hide=stars)
+
+
 **Mariam05/Mariam05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
